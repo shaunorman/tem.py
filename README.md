@@ -1,4 +1,4 @@
-# tempy
+# tem.py
 Micropython temperature station.
 
 Considering I develop in Python for my every day job I thought I should try micropython instead of doing all my work in Arduino's version of C.
